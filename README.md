@@ -33,6 +33,18 @@ The game is currently in active development — feedback is welcome!
 
 ---
 
+## 📷 Game Preview
+
+![Home Screen](https://github.com/user-attachments/assets/b99a54c5-96ea-44f6-b26c-db8020d68f7c)
+
+![Car Select](https://github.com/user-attachments/assets/1786b224-f162-4de6-b5ed-54e2bf94cab3)
+
+![Game 1](https://github.com/user-attachments/assets/33ef9c59-b910-42cb-a1d0-f2ed59cf94a3)
+
+![Game 2](https://github.com/user-attachments/assets/4c27efd6-5301-4de7-badd-e3e22217eb95)
+
+---
+
 ## ⚠️ Disclaimer
 
 - 🔒 Source code is **not** included in this repository.
